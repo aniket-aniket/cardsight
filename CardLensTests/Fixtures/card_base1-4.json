@@ -1,0 +1,31 @@
+{
+ "id": "base1-4",
+ "localId": "4",
+ "name": "Charizard",
+ "image": "https://assets.tcgdex.net/en/base/base1/4",
+ "rarity": "Rare",
+ "illustrator": "Mitsuhiro Arita",
+ "set": {
+  "cardCount": {
+   "official": 102,
+   "total": 102
+  },
+  "id": "base1",
+  "logo": "https://assets.tcgdex.net/en/base/base1/logo",
+  "name": "Base Set"
+ },
+ "pricing": {
+  "tcgplayer": {
+   "unit": "USD",
+   "updated": "2026-10-08T22:54:34.137Z",
+   "holofoil": {
+    "productId": 42382,
+    "lowPrice": 499.99,
+    "midPrice": 675.1,
+    "highPrice": 3499.1,
+    "marketPrice": 928.32,
+    "directLowPrice": null
+   }
+  }
+ }
+}
